@@ -23,3 +23,4 @@ def check_nums (num1, num2):
     '''
     pass
 
+print(check_nums(1,2))
