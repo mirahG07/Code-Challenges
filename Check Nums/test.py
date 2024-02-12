@@ -1,5 +1,5 @@
 import unittest
-from solution import check_nums
+from problem import check_nums
 
 class TestSolution (unittest.TestCase):
     def test_true(self):
